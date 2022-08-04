@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "51fdcdd3-1021-40e0-8b88-8d3b833ccb8e",
+		"name": "C1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "895694"
+	},
+	"item": [
+		{
+			"name": "google.com",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.google.com",
+					"host": [
+						"www",
+						"google",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
