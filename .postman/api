@@ -1,11 +1,12 @@
-id = 826de947-e7e9-4eee-8895-791c7bde6c51
+id = 6a45904e-8b6c-4d68-8abf-5c41002f3f41
 
 [relations]
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"51fdcdd3-1021-40e0-8b88-8d3b833ccb8e","path":"C1.json","metaData":{}}
-files[] = {"id":"3e8cd7dc-ad51-41e3-be65-f3e28344d656","path":"C3.json","metaData":{}}
+files[] = {"id":"23234629-5abfe922-fd66-4eb6-922d-edd815707919","path":"C1(1).json","metaData":{}}
+files[] = {"id":"895694-51fdcdd3-1021-40e0-8b88-8d3b833ccb8e","path":"C1.json","metaData":{}}
+files[] = {"id":"895694-3e8cd7dc-ad51-41e3-be65-f3e28344d656","path":"C3.json","metaData":{}}
 
 [relations.collections.metaData]
 
@@ -13,6 +14,7 @@ files[] = {"id":"3e8cd7dc-ad51-41e3-be65-f3e28344d656","path":"C3.json","metaDat
 rootDirectory = postman/schemas
 files[] = {"path":"file.json","metaData":{}}
 files[] = {"path":"file1.json","metaData":{}}
+files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
